@@ -1,0 +1,6 @@
+{
+  "name": "Rest Is Not A Reward - IMC Campaign Planner",
+  "description": "Interactive Integrated Marketing Communications (IMC) Plan dashboard and AI content generator for the Scented Candle 'Rest Is Not A Reward' campaign in TP.HCM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
